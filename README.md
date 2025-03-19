@@ -1,4 +1,4 @@
-<p><img src="kw_banner.png" alt="Wilhelm Kogler Banner"></p>
+<p><img src="kw_bann.png" alt="Wilhelm Kogler Banner"></p>
 <h1> 👋 &nbsp;Hey! I'm Wilhelm</h1>
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>
