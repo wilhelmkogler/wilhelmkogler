@@ -1,13 +1,12 @@
 <p><img src="kw_banner.png" alt="Wilhelm Kogler Banner"></p>
 <h1> 👋 &nbsp;Hey! I'm Wilhelm</h1>
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
-🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
+<p>💡 &nbsp;I like to explore new technologies and develop websites and web applications.<br>
+🎓 &nbsp;I recently graduated as a Business Informatics Engineer at the University of Debrecen, Hungary.<br>
+🌱 &nbsp;I’m on track for learning more about Front-End & Back-End Web Development, Responsive Layout, and Cloud Architecture.<br>
+✍️ &nbsp;In my free time, I create websites for smaller companies as a hobby/side hustle.<br>
+💬 &nbsp;Feel free to reach out to me on my <a href="http://wilhelmkogler.com" style="color: rgb(123, 220, 82);" target="_blank">portfolio website</a>.<br>
+✉️ &nbsp;You can shoot me an email at <a href="mailto:wilhelmkogler@email.com" style="color: rgb(28, 187, 193);">wilhelmkogler@email.com</a>! I’ll try to respond as soon as I can.<br>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p>
     <div class="icon-container" style="display: flex;flex-wrap: wrap;gap: 10px;justify-content: center;padding: 20px;">
