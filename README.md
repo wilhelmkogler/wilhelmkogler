@@ -1,12 +1,13 @@
 <p><img src="kw_banner.png" alt="Wilhelm Kogler Banner"></p>
 <h1> 👋 &nbsp;Hey! I'm Wilhelm</h1>
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop websites and web applications.<br>
+<p>
+👦 &nbsp;I'm a 23 year old Web Developer from Germany.<br>
 🎓 &nbsp;I recently graduated as a Business Informatics Engineer at the University of Debrecen, Hungary.<br>
+💡 &nbsp;I like to explore new technologies and develop websites and web applications.<br>
 🌱 &nbsp;I’m on track for learning more about Front-End & Back-End Web Development, Responsive Layout, and Cloud Architecture.<br>
 ✍️ &nbsp;In my free time, I create websites for smaller companies as a hobby/side hustle.<br>
-💬 &nbsp;Feel free to reach out to me on my <a href="http://wilhelmkogler.com" style="color: rgb(123, 220, 82);" target="_blank">portfolio website</a>.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:wilhelmkogler@email.com" style="color: rgb(28, 187, 193);">wilhelmkogler@email.com</a>! I’ll try to respond as soon as I can.<br>
+💬 &nbsp;Feel free to reach out to me on my portfolio website or wilhelmkogler@email.com.<br>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p>
     <div class="icon-container" style="display: flex;flex-wrap: wrap;gap: 10px;justify-content: center;padding: 20px;">
