@@ -1,6 +1,12 @@
 <p><img src="kw_banner.png" alt="Wilhelm Kogler Banner"></p>
-<h1> 👋 &nbsp;Hey! I'm Wilhelm</h1>
-<h3 id="-about-me" >🔎 &nbsp;<u>About Me</u></h3>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=500&color=009C30&center=true&vCenter=true&width=600&height=50&lines=👋+Hey!;My+name+is+Wilhelm;That's+it+🤪" />
+</h1>
+
+
+<h3 id="-about-me" >About Me</h3>
 <h3>
 👦 &nbsp;I'm a 23 year old Web Developer from Germany.<br><br>
 🎓 &nbsp;I recently graduated as a Business Informatics Engineer at the University of Debrecen, Hungary.<br><br>
@@ -9,7 +15,7 @@
 💰 &nbsp;In my free time, I create websites for smaller companies as a hobby/side hustle.<br><br>
 💬 &nbsp;Feel free to reach out to me on my portfolio website or wilhelmkogler@email.com.<br><br>
 </h3>
-<h3 id="-tech-stack">🛠 &nbsp;<u>Tech Stack</u></h3>
+<h3 id="-tech-stack">Tech Stack</h3>
 <p>
     <div class="icon-container" style="display: flex;flex-wrap: wrap;gap: 10px;justify-content: center;padding: 20px;">
         <img style="width: 60px;height: 60px;object-fit: contain;" src="https://img.icons8.com/color/100/html-5.png" alt="HTML5" title="HTML">
