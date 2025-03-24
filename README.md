@@ -17,11 +17,11 @@
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="60%">
+<table border="none" cellspacing="0" cellpadding="0">
+  <tr border="none">
+    <td valign="top" width="60%" border="none">
       <h3 style="margin: 0;">🛠️ Tech Stack</h3>
-      <div align="center">
+      <div align="center" border="none">
         <img src="https://img.icons8.com/color/100/html-5.png" width="75" title="HTML">
         <img src="https://img.icons8.com/color/100/css3.png" width="75" title="CSS">
         <img src="https://img.icons8.com/color/100/javascript.png" width="75" title="JavaScript">
