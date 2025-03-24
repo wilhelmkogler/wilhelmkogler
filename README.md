@@ -22,22 +22,22 @@
     <td valign="top" width="60%">
       <h3 style="margin: 0;">🛠️ Tech Stack</h3>
       <div align="center">
-        <img src="https://img.icons8.com/color/100/html-5.png" width="50" title="HTML">
-        <img src="https://img.icons8.com/color/100/css3.png" width="50" title="CSS">
-        <img src="https://img.icons8.com/color/100/javascript.png" width="50" title="JavaScript">
-        <img src="https://img.icons8.com/color/100/react-native.png" width="50" title="React.js">
-        <img src="https://img.icons8.com/color/100/bootstrap--v2.png" width="50" title="Bootstrap">
-        <img src="https://img.icons8.com/color/100/tailwind_css.png" width="50" title="Tailwind CSS">
-        <img src="https://img.icons8.com/officel/80/php-logo.png" width="50" title="PHP">
-        <img src="https://img.icons8.com/color/100/python.png" width="50" title="Python">
-        <img src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" width="50" title="Java">
-        <img src="https://img.icons8.com/fluency/100/sql.png" width="50" title="SQL">
-        <img src="https://img.icons8.com/color/100/mysql-logo.png" width="50" title="MySQL">
-        <img src="https://img.icons8.com/color/100/git.png" width="50" title="Git">
-        <img src="https://img.icons8.com/color/100/github.png" width="50" title="GitHub">
-        <img src="https://img.icons8.com/color/100/visual-studio-code-2019.png" width="50" title="VS Code">
-        <img src="https://img.icons8.com/color/100/amazon-web-services.png" width="50" title="AWS">
-        <img src="https://img.icons8.com/stickers/100/wordpress.png" width="50" title="WordPress">
+        <img src="https://img.icons8.com/color/100/html-5.png" width="80" title="HTML">
+        <img src="https://img.icons8.com/color/100/css3.png" width="80" title="CSS">
+        <img src="https://img.icons8.com/color/100/javascript.png" width="80" title="JavaScript">
+        <img src="https://img.icons8.com/color/100/react-native.png" width="80" title="React.js">
+        <img src="https://img.icons8.com/color/100/bootstrap--v2.png" width="80" title="Bootstrap">
+        <img src="https://img.icons8.com/color/100/tailwind_css.png" width="80" title="Tailwind CSS">
+        <img src="https://img.icons8.com/officel/80/php-logo.png" width="80" title="PHP">
+        <img src="https://img.icons8.com/color/100/python.png" width="80" title="Python">
+        <img src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" width="80" title="Java">
+        <img src="https://img.icons8.com/fluency/100/sql.png" width="80" title="SQL">
+        <img src="https://img.icons8.com/color/100/mysql-logo.png" width="80" title="MySQL">
+        <img src="https://img.icons8.com/color/100/git.png" width="80" title="Git">
+        <img src="https://img.icons8.com/color/100/github.png" width="80" title="GitHub">
+        <img src="https://img.icons8.com/color/100/visual-studio-code-2019.png" width="80" title="VS Code">
+        <img src="https://img.icons8.com/color/100/amazon-web-services.png" width="80" title="AWS">
+        <img src="https://img.icons8.com/stickers/100/wordpress.png" width="80" title="WordPress">
       </div>
     </td>
     <td valign="top" align="center" width="40%"><br>
