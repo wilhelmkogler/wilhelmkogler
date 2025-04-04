@@ -1,4 +1,4 @@
-<p><img src="kw_banner.png" alt="Wilhelm Kogler Banner"></p>
+<p><img src="aha.png" alt="Wilhelm Kogler Banner"></p>
 
 
 <h1 align="center">
