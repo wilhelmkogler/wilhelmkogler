@@ -38,6 +38,7 @@
         <img src="https://img.icons8.com/color/100/visual-studio-code-2019.png" width="75" title="VS Code">
         <img src="https://img.icons8.com/color/100/amazon-web-services.png" width="75" title="AWS">
         <img src="https://img.icons8.com/stickers/100/wordpress.png" width="75" title="WordPress">
+        <img src="https://img.icons8.com/fluency/100/canva.png" width="75" alt="canva"/>
       </div>
     </td>
     <td valign="top" align="center" width="40%"><br>
