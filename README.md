@@ -32,13 +32,16 @@
         <img src="https://img.icons8.com/color/100/python.png" width="75" title="Python">
         <img src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" width="75" title="Java">
         <img src="https://img.icons8.com/fluency/100/sql.png" width="75" title="SQL">
-        <img src="https://img.icons8.com/color/100/mysql-logo.png" width="75" title="MySQL">
+        <img src="https://img.icons8.com/color/100/mysql-logo.png" width="75" title="MySQL"> 
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="75" title="MongoDB">
+        <img src="https://img.icons8.com/color/100/nodejs.png" width="75" title="Node.js">
         <img src="https://img.icons8.com/color/100/git.png" width="75" title="Git">
         <img src="https://img.icons8.com/color/100/github.png" width="75" title="GitHub">
         <img src="https://img.icons8.com/color/100/visual-studio-code-2019.png" width="75" title="VS Code">
         <img src="https://img.icons8.com/color/100/amazon-web-services.png" width="75" title="AWS">
         <img src="https://img.icons8.com/stickers/100/wordpress.png" width="75" title="WordPress">
         <img src="https://img.icons8.com/fluency/100/canva.png" width="75" alt="canva"/>
+        <img src="https://img.icons8.com/color/100/figma--v1.png" width="75" title="Figma">
       </div>
     </td>
     <td valign="top" align="center" width="40%"><br>
