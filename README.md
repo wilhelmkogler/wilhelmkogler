@@ -31,6 +31,7 @@
         <img src="https://img.icons8.com/officel/80/php-logo.png" width="75" title="PHP">
         <img src="https://img.icons8.com/color/100/python.png" width="75" title="Python">
         <img src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" width="75" title="Java">
+          <img src="https://img.icons8.com/color/100/firebase.png" width="75" title="Firebase">
         <img src="https://img.icons8.com/fluency/100/sql.png" width="75" title="SQL">
         <img src="https://img.icons8.com/color/100/mysql-logo.png" width="75" title="MySQL"> 
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="75" title="MongoDB">
