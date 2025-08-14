@@ -1,4 +1,4 @@
-<p><img src="aha.png" alt="Wilhelm Kogler Banner"></p>
+<p><img src="bann.png" alt="Wilhelm Kogler Banner"></p>
 
 
 <h1 align="center">
@@ -13,7 +13,7 @@
 💡 &nbsp;I like to explore new technologies and develop websites and web applications.<br><br>
 🖥️ &nbsp;I’m on track for learning more about Full-Stack Development.<br><br>
 💰 &nbsp;In my free time, I create websites for smaller companies as a hobby/side hustle.<br><br>
-💬 &nbsp;Feel free to reach out to me on my portfolio website or contact@wilhelmkogler.com</h3> <br>
+💬 &nbsp;Feel free to reach out to me on my portfolio website or wilhelmkogler11@gmail.com</h3> <br>
 
 
 
