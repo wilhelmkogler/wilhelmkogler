@@ -8,7 +8,7 @@
 
 <h3 id="-about-me" >About Me</h3>
 <h3>
-👦 &nbsp;I'm a 23 year old Web Developer from München. <br><br>
+👦 &nbsp;I'm a Junior Web Developer from München. <br><br>
 🎓 &nbsp;I recently graduated as a Business Informatics Engineer at the University of Debrecen.<br><br>
 💡 &nbsp;I like to explore new technologies and develop websites and web applications.<br><br>
 🖥️ &nbsp;I’m on track for learning more about Full-Stack Development.<br><br>
