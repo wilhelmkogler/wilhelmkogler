@@ -45,9 +45,7 @@
         <img src="https://img.icons8.com/color/100/figma--v1.png" width="75" title="Figma">
       </div>
     </td>
-    <td valign="top" align="center" width="40%"><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhelmkogler&theme=radical&show_icons=true&hide_border=true&layout=pie" alt="languages" />
-    </td>
+    
   </tr>
 </table>
   
